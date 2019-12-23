@@ -1,0 +1,75 @@
+/*   Copyright © Architeer Corporation.  All rights reserved.   */
+
+html, body { color: #ffffff; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; background-color: black ; vertical-align: top; margin: 0; padding: 0; border: none; height: 100%; }
+img { vertical-align: middle; }
+h0 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 40px; margin: 0; padding: 0;}
+h1 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: lighter; line-height: 40px; margin: 0; padding: 0; }
+h2 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; }
+h3 { color: #ffffff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: lighter; line-height: 28px; margin: 0; padding: 0; }
+h4 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+h5 { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 18px; margin: 0; padding: 0; }
+
+a.menuelementlink         { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:link    { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:visited { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+a.menuelementlink:hover   { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: underline; }
+a.menuelementlink:active  { color: Cyan; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; text-decoration: none;}
+
+a.footerlink         { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:link    { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:visited { color: Cyan; font-weight: bold; text-decoration: none;}
+a.footerlink:hover   { color: Cyan; font-weight: bold; text-decoration: underline; }
+a.footerlink:active  { color: Cyan; font-weight: bold; text-decoration: none;}
+
+li.termsofuse { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+li.privacypolicy { color: #ffffff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 18px; margin: 0; padding: 0; }
+
+#footerlinks { color: #c0c0c0; font-size: 9px; font-family: Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 9px; margin: 0; padding: 2px; border-width: 0; }
+#copyright{ color: white; font-size: 9px; font-family: Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 9px; margin: 0; padding: 2px; border-width: 0; }
+
+table.actionbar_main { border-spacing: 8px 4px; }
+img.actionbar_main        { border:2px solid #396060; padding: 0; margin: 0; }
+img.actionbar_main_active { border:2px solid Cyan; padding: 0; margin: 0; }
+
+table.actionbar_world { border-spacing: 8px 4px; }
+img.actionbar_world        { border:2px solid #424936; padding: 0; margin: 0; }
+img.actionbar_world_active { border:2px solid GreenYellow; padding: 0; margin: 0; }
+
+table.actionbar_classes { border-spacing: 8px 4px; }
+img.actionbar_classes        { border:2px solid #424936; padding: 0; margin: 0; }
+img.actionbar_classes_active { border:2px solid GreenYellow; padding: 0; margin: 0; }
+
+table.view { border-spacing: 5px; border-collapse: separate; background-color: black; }
+img.max_100_percent_of_container { max-width: 100%; max-height: 100%; }
+
+ul.about { margin: 0; padding-left: 17px; list-style-position: outside; }
+li.about_1 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; }
+li.about_2 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; list-style-type: none; }
+
+th.world_empires { background-color: #808080; color: #000000; font-size: 26px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+td.world_empires_empire { text-align: left; background-color: #1a1a1a; color: white; font-size: 26px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; }
+td.world_empires_kingdom{ text-align: left; background-color: #333333; color: white; font-size: 22px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; }
+td.world_empires_castle { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+td.world_empires_city   { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+td.world_empires_town   { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+td.world_empires_village{ text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+
+th.world_map_1 { background-color: #424242; color: #ffffff; font-size: 24px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+th.world_map_2 { background-color: #808080; color: #000000; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+td.world_map_description { text-align: left; background-color: #1a1a1a; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
+td.world_map_reference { text-align: center; background-color: #333333; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
+
+th.classes { background-color: #808080; color: #000000; font-size: 34px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+td.classes_tier { text-align: center; background-color: #1a1a1a; color: #8c8c8c; font-size: 44px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+td.classes_code { text-align: center; background-color: #333333; color: #b3b3b3; font-size: 44px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+td.classes_class { text-align: center; background-color: #4d4d4d; color: white; font-size: 48px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+div.classes_class
+{
+  -webkit-transform: rotate(-90.0deg);
+      -ms-transform: rotate(-90.0deg);
+          transform: rotate(-90.0deg);
+        margin-left: -5em;
+       margin-right: -5em;
+}
+td.classes_character_model_gender { text-align: left; background-color: #4d4d4d; color: White; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+
