@@ -51,20 +51,12 @@ li.about_1 { color: white; font-size: 14px; font-family: 'Share Tech Mono', mono
 li.about_2 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; list-style-type: none; }
 
 th.universe_empires { background-color: #737373; color: #000000; font-size: 26px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
-td.universe_empires_empire { text-align: center; background-color: #1a1a1a; color: white; font-size: 42px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; }
+td.universe_empires_empire { text-align: center; background-color: #1a1a1a; color: white; font-size: 32px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 25px; padding-bottom: 25px; padding-left: 25px; padding-right: 25px; }
 td.universe_empires_kingdom{ text-align: left; background-color: #333333; color: white; font-size: 22px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; }
 td.universe_empires_castle { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 td.universe_empires_city   { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 td.universe_empires_town   { text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 td.universe_empires_village{ text-align: left; background-color: #4d4d4d; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
-div.universe_empires_empire
-{
-  -webkit-transform: rotate(-90.0deg);
-      -ms-transform: rotate(-90.0deg);
-          transform: rotate(-90.0deg);
-        margin-left: -5em;
-       margin-right: -5em;
-}
 
 th.universe_origin_1          { text-align: center; background-color: #424242; color: #ffffff; font-size: 24px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
 th.universe_origin_2          { text-align: center; background-color: #737373; color: #000000; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
