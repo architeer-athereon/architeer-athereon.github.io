@@ -31,6 +31,10 @@ table.actionbar_main { border-spacing: 8px 4px; }
 img.actionbar_main        { border:2px solid #396060; padding: 0; margin: 0; }
 img.actionbar_main_active { border:2px solid Cyan; padding: 0; margin: 0; }
 
+table.actionbar_about { border-spacing: 8px 4px; }
+img.actionbar_about        { border:2px solid #424936; padding: 0; margin: 0; }
+img.actionbar_about_active { border:2px solid GreenYellow; padding: 0; margin: 0; }
+
 table.actionbar_universe { border-spacing: 8px 4px; }
 img.actionbar_universe        { border:2px solid #424936; padding: 0; margin: 0; }
 img.actionbar_universe_active { border:2px solid GreenYellow; padding: 0; margin: 0; }
