@@ -44,17 +44,17 @@ img.actionbar_4        { border:2px solid #404040; padding: 0; margin: 0; }
 img.actionbar_4_active { border:2px solid #8c8c8c; padding: 0; margin: 0; }
 
 table.view { border-spacing: 5px; border-collapse: separate; background-color: black; }
-img.max_100_percent_of_container { max-width: 100%; max-height: 100%; }
 
 ul.about { margin: 0; padding-left: 17px; list-style-position: outside; }
 li.about_1 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; }
 li.about_2 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; list-style-type: none; }
-table.about_screenshots{ border: 3px solid #1a1a1a; border-collapse: collapse; }
+img.about_screenshots{ max-width: 100%; max-height: 100%; border: 2px solid #1a1a1a; }
 
-th.universe_origin_1          { text-align: center; background-color: #424242; color: #ffffff; font-size: 24px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
-th.universe_origin_2          { text-align: center; background-color: #737373; color: #000000; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
-td.universe_origin_description{ text-align: left; background-color: #1a1a1a; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
-td.universe_origin_reference  { text-align: center; background-color: #333333; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
+th.universe_overworld_1          { text-align: center; background-color: #424242; color: #ffffff; font-size: 24px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+th.universe_overworld_2          { text-align: center; background-color: #737373; color: #000000; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
+td.universe_overworld_description{ text-align: left; background-color: #1a1a1a; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
+td.universe_overworld_reference  { text-align: center; background-color: #333333; color: white; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 15px; padding-right: 15px; }
+img.universe_overworld           { max-width: 100%; max-height: 100%; }
 
 th.universe_civilization_race      { background-color: #333333; color: #737373; font-size: 38px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 2px; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; }
 th.universe_civilization           { background-color: #737373; color: #000000; font-size: 26px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
