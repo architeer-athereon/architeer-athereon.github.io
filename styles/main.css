@@ -51,7 +51,7 @@ ul.about { margin: 0; padding-left: 17px; list-style-position: outside; }
 li.about_1 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; }
 li.about_2 { color: white; font-size: 14px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 20px; margin: 0; padding: 0; list-style-type: none; }
 img.about_coverart   { max-width: 100%; max-height: 100%; border: 2px solid #8c8c8c; }
-img.about_screenshots{ max-width: 100%; max-height: 100%; border: 2px solid #1a1a1a; }
+img.about_screenshots{ max-width: 100%; max-height: 100%; border: 2px solid #8c8c8c; }
 
 th.universe_overworld_1          { text-align: center; background-color: #424242; color: #ffffff; font-size: 24px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
 th.universe_overworld_2          { text-align: center; background-color: #737373; color: #000000; font-size: 20px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px; }
